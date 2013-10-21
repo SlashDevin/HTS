@@ -1,0 +1,4 @@
+#ifndef _CONTROLALGORITHM_H_
+#define _CONTROLALGORITHM_H_
+
+#endif
